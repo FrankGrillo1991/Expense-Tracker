@@ -71,3 +71,9 @@ form button:hover {
 .filter label {
     margin-right: 10px;
 }
+
+.filter select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
