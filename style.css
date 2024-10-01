@@ -67,3 +67,7 @@ form button:hover {
     margin-bottom: 20px;
     text-align: right;
 }
+
+.filter label {
+    margin-right: 10px;
+}
