@@ -41,3 +41,9 @@ form button {
 form button:hover {
     background-color: #218838;
 }
+
+.expense-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
