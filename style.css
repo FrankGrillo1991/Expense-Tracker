@@ -53,3 +53,7 @@ form button:hover {
     border: 1px solid #ddd;
     text-align: left;
 }
+
+.expense-table th {
+    background-color: #f8f8f8;
+}
